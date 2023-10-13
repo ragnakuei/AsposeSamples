@@ -114,7 +114,7 @@ class Program
         {
             new TableRowDto { Title = "Title1", Column1 = "1", Column2 = "2", Column3 = "3" },
             new TableRowDto { Title = "Title2", Column1 = "4", Column2 = "5", Column3 = "6" },
-            new TableRowDto { Title = "Title3", Column1 = "7", Column2 = "8", Column3 = "9" },
+            new TableRowDto { Title = "Titls3", Column1 = "7", Column2 = "8", Column3 = "9" },
         };
 
         foreach (var item in rows)
